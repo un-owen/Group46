@@ -3,3 +3,4 @@ members of group 64
 (name/BUPT id/QMUL id/Github id)
 leader:
 Zhengnan Cao/2020213187/200976884/CurrenTTT
+Yizi Wag/2020213264/200978752/un-owen
